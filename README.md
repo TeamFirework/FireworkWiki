@@ -1,0 +1,2 @@
+# FireworkWiki
+Team Firework wiki.
